@@ -1,6 +1,6 @@
 {
   "name": "to-do-app",
-  "private": true,
+  "private": false,
   "homepage": "https://VRashi16.github.io/to-do-app"
   "version": "0.0.0",
   "type": "module",
